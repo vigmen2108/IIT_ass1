@@ -1,8 +1,7 @@
-Link to the site: https://vigmen2108.github.io/IIT_ass1/ - automatic!
-[GitHub](https://vigmen2108.github.io/IIT_ass1/)
+Link to the site: https://vigmen2108.github.io/IIT_ass1/
 
-![GitHub Logo](/images/DP.jpg)
 
+![Alt Text](DP.jpg) 
 
 # About the Author
 Vignesh Menon
@@ -20,6 +19,7 @@ I expect to become proficient at a few more coding languages, build on my existi
 
 # Ideal Job
 Link: https://au.indeed.com/viewjob?jk=4492d49e9b3cbe8b&tk=1drsjg8qkb9h7800&from=serp&vjs=3
+
 ![GitHub Logo](/images/Job1.png)
 Format: ![Alt Text](Job1.png) 
 
