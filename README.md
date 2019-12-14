@@ -5,9 +5,9 @@
 ![Alt Text](DP.jpg) 
 
 # About the Author
-Vignesh Menon
-S3862714
-S3826714@student.rmit.edu.au
+_Vignesh Menon_
+_S3862714_
+_S3826714@student.rmit.edu.au_
 
 I’m an Australian from an Indian background so my culture is a blend between both Australian and Indian. I have lived in this country for 10+ years and completed majority of my high school education in Melbourne. I also did Bachelor in Science (Electrical Systems) at University of Melbourne but unfortunately due to work commitments I had to drop the course in my final semester. After my course, I join the Australian Defence Force and I have been working in the Army for almost 2 years now.
 Coming from a Indian background my family and I are very adaptable, our culture brings a vibrance to our lives and people around us by the flashy Bollywood movies, music, and our food which also brings families together. So overall, my Indian culture brings the adaptable, interesting and caring side of my character whereas the Australian culture that I have been accustomed to in the recent years brings out the mateship, confidence and independent individual I have become.
