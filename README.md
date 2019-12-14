@@ -1,4 +1,5 @@
-Link to the site: https://vigmen2108.github.io/IIT_ass1/
+Link to the site: 
+[title](https://vigmen2108.github.io/IIT_ass1/)
 
 
 ![Alt Text](DP.jpg) 
@@ -18,7 +19,8 @@ Honestly, I chose RMIT because I knew mates who went to RMIT when I was studying
 I expect to become proficient at a few more coding languages, build on my existing skills. I would like to gain an appreciation for new technologies in this ever-changing field. Finally, I would like to have a degree in IT that would help me advance in my current workplace or shift my experience and knowledge to the private sector in order to progress my career.
 
 # Ideal Job
-Link: https://au.indeed.com/viewjob?jk=4492d49e9b3cbe8b&tk=1drsjg8qkb9h7800&from=serp&vjs=3
+Link: 
+[title](https://au.indeed.com/viewjob?jk=4492d49e9b3cbe8b&tk=1drsjg8qkb9h7800&from=serp&vjs=3)
 
 ![Alt Text](Job1.png) 
 
