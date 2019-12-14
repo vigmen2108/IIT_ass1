@@ -2,7 +2,7 @@
 [Link to my site](https://vigmen2108.github.io/IIT_ass1/)
 
 
-## My Photo
+# Introduction to Information Technology - Assignment 1: MY PROFILE
 
 <p align="center">
   <img src="DP.jpg">
