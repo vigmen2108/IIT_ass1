@@ -2,7 +2,7 @@ Link to the site: https://vigmen2108.github.io/IIT_ass1/ - automatic!
 [GitHub](https://vigmen2108.github.io/IIT_ass1/)
 
 ![GitHub Logo](/images/DP.jpg)
-Format: ![Alt Text](DP.jpg)
+
 
 # About the Author
 Vignesh Menon
