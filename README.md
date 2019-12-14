@@ -1,5 +1,6 @@
 
 [Link to my site](https://vigmen2108.github.io/IIT_ass1/)
+[Link to the job ad](https://au.indeed.com/viewjob?jk=4492d49e9b3cbe8b&tk=1drsjg8qkb9h7800&from=serp&vjs=3)
 
 
 # Introduction to Information Technology - Assignment 1: MY PROFILE
@@ -18,11 +19,13 @@ Honestly, I chose RMIT because I knew mates who went to RMIT when I was studying
 I expect to become proficient at a few more coding languages, build on my existing skills. I would like to gain an appreciation for new technologies in this ever-changing field. Finally, I would like to have a degree in IT that would help me advance in my current workplace or shift my experience and knowledge to the private sector in order to progress my career.
 
 # Ideal Job
-[Link to the job ad](https://au.indeed.com/viewjob?jk=4492d49e9b3cbe8b&tk=1drsjg8qkb9h7800&from=serp&vjs=3)
 
-![Alt Text](Job1.png) 
-
-![Alt Text](Job2.png) 
+<p align="center">
+  <img src="Job1.PNG">
+</p>
+<p align="center">
+  <img src="Job2.PNG">
+</p> 
  
 ## Description:
 The position of the Senior Cyber Security Manger is to leader a team of cyber security specialists at EY. The role from my understanding requires prior experience in both leadership and management but also technical expertise in cyber security. The job advertised lists the things that is required in the applicant which’ll allow the m to be successful in this role, lists the risk management framework they must be competent in and finally lists the extra attributes they must possess such as good communication and interpersonal skills which is vital for a senior position. Moreover, this position requires you to have a intimate understanding of the job as well as be able to lead junior members through their roles – mentoring and managing their needs. This can be challenging and rewarding at the same time hence the job appeals to me because when I progress through my career, I’d like to continue doing my job that I started off with, continue doing the role I felt passionate about while using my experience and knowledge to coach newer members of the team and guide them towards the gaols of the company that I’d come to understand through my experiences.
