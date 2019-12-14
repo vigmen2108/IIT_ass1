@@ -1,7 +1,10 @@
 
 [Link to my site](https://vigmen2108.github.io/IIT_ass1/)
 
-
+<p align="center">
+  <img width="460" height="300" src="DP.jpg">
+</p>
+## My Photo
 ![Alt Text](DP.jpg) 
 
 ![Alt Text](Page1.PNG)
