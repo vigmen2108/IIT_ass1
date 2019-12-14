@@ -1,13 +1,16 @@
 
 [Link to my site](https://vigmen2108.github.io/IIT_ass1/)
 
-<p align="center">
-  <img width="460" height="300" src="DP.jpg">
-</p>
-## My Photo
-![Alt Text](DP.jpg) 
 
-![Alt Text](Page1.PNG)
+## My Photo
+
+<p align="center">
+  <img src="DP.jpg">
+</p>
+
+<p align="center">
+  <img src="Page1.PNG">
+</p>
 
 # Interest in IT
 My interest in Information Technology began when I was doing my first bachelors which involved some coding as fundamentals for Electrical Engineering. Initially IT was forced on to me although I disliked it very much purely because coming from an Indian social circle, many of my mates and my family friends were in IT field and I really didn’t like what they did for a living. But soon I came to realise that IT is everywhere and its everything. It’s innovation, its creation and its history. Let me explain… IT allows you to make progress in leaps and bounds relative to anything we have seen in the past, creating things we only dreamt of in the past – MRI machines, Virtual reality, smart home systems like in Iron Man movies. This is a direct result of the things we have learn through out history which is leading our drive towards innovation and the freedom we have allows us to create whatever our heart desires. This brought out a whole new perspective in me – to be in the leading edge of innovation, if not at least be up to date with the latest trends and technology – move forward with the world. My experiences with IT are adequate – I have done courses in C, Java and I have self-taught VBA and python. I have also used Verilog which is a hardware description language used in my previous degree.
