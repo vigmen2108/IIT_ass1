@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="Page8.PNG">
+</p>
+
+<p align="center">
   <img src="Page5.PNG">
 </p>
 
